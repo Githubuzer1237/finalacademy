@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import * as gsap from "gsap";
+import gsap from "gsap";
 
 
 import './DecayCard.css';
